@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat')
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
